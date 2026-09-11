@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 96d977eaff68344c8b76ab7cb4bdeae4
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90369
+  packageName: Google sheet to Json
+  packageVersion: 2.0
+  assetPath: Assets/GSpreadSheets/Editor/LICENSE-2.0.txt
+  uploadId: 731389

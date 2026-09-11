@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d9a9701f194b44799dfb4a46222a0fb
+timeCreated: 1494480642
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90369
+  packageName: Google sheet to Json
+  packageVersion: 2.0
+  assetPath: Assets/GSpreadSheets/SpreadSheetTemplate.xlsx
+  uploadId: 731389

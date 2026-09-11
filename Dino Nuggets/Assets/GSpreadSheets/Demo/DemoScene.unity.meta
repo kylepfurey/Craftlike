@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bcca05cafc8b43f1a8e7c3a8c8c6e40
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 90369
+  packageName: Google sheet to Json
+  packageVersion: 2.0
+  assetPath: Assets/GSpreadSheets/Demo/DemoScene.unity
+  uploadId: 731389
