@@ -1,10 +1,12 @@
 namespace DN
 {
-    public class Player : Entity
+    public class Item : Entity
     {
+        public override string Type => "Items";
+
         protected override void LoadProperties(Spreadsheet.Row properties)
         {
-            base.LoadProperties(properties);
+
         }
     }
 }
