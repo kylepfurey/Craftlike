@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dfa060ea9df9ec44adc367570b9e24b, type: 3}
+  m_Name: Entities
+  m_EditorClassIdentifier: Assembly-CSharp::DN.Spreadsheet
+  idToRow:
+  - key: player
+    value: 0
+  - key: tree
+    value: 1
+  - key: rock
+    value: 2
+  rows:
+  - columns:
+    - key: id
+      value: player
+    - key: name
+      value: Player
+  - columns:
+    - key: id
+      value: tree
+    - key: name
+      value: Tree
+  - columns:
+    - key: id
+      value: rock
+    - key: name
+      value: Rock
